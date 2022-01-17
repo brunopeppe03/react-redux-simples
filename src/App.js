@@ -15,7 +15,7 @@ function App() {
       </div>
       <div className='linha'>
       <Sorteio></Sorteio>
-      <Media></Media>
+      <Media prop1="" prop2=""></Media>
       <Soma></Soma>
       </div>
     </div>
